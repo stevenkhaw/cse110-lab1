@@ -4,7 +4,7 @@
 #### ~~I love Math!~~ I used to love math
 > I haven't used Markdown in a while so this will be a good refresher for me. 
 
-Here is a link to [TritonLink](students.ucsd.edu) because I have no other links that I'd like to share.
+Here is a link to [TritonLink](https://students.ucsd.edu) because I have no other links that I'd like to share.
 
 Section links are enabled by default. 
 
